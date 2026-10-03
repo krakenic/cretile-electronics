@@ -149,5 +149,4 @@ I would like to rebuild this concept using Arduino and eventually experiment wit
 ## Files
 
 * `images/` - Photos of my builds
-* `circuit/` - Circuit/connection diagrams
 * `results/` - Testing observations and data
